@@ -13,6 +13,11 @@ Java, Python, Git, SQL, HTML/CSS
 LinkedIn | Portfolio
 ## https://www.linkedin.com/in/amit-rana-472544390?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
+##Languages and Tools:
+
+arduino  bootstrap  css3  express  figma  git  html5  java  javascript  mongodb  mysql  nodejs  php  postman  python  react  reactnative  tailwind  typescript
+
+Markdown Windows Terminal GithubPages Context-API DaisyUI Green Sock JWT NPM React Router React Hook Form Redux WordPress Vite Apache MySQL MongoDB Canva Git GitHub
 
 <!--
 **amitbhai930/amitbhai930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
