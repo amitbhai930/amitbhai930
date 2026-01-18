@@ -11,7 +11,8 @@ Java, Python, Git, SQL, HTML/CSS
 
 ## Contact
 LinkedIn | Portfolio
-## Hi there 👋
+## https://www.linkedin.com/in/amit-rana-472544390?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 
 <!--
 **amitbhai930/amitbhai930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
