@@ -17,7 +17,11 @@ PHP, Apache
 ## Databases
 MySQL, MongoDB
 
-## Dev Tools
+## Dev Tools 
+## Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,php,python,java,mysql,mongodb,tailwind,bootstrap,figma,git,github,postman,arduino)
+
 Git, GitHub, Postman, NPM  
 Figma, Canva  
 Windows Terminal, Markdown, GitHub Pages
