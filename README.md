@@ -1,4 +1,4 @@
-# Amit Rana | Full-Stack Developer
+# 👋 Hi I'm AMIT
 
 Engineering student building frontend + backend systems.
 
