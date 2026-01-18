@@ -2,20 +2,23 @@
 
 Engineering student building frontend + backend systems.
 
-## Core Stack
-JavaScript, TypeScript, Python, Java, PHP
+✌️I’m currently learning Backend, nodejs, etc
 
+🔭 I’m currently learning JAVA, Python, Fast API
+
+💬 Ask me about React.js, java script
+
+📫 How to reach me astudiopresents@gmail.com
+
+📄 Know about my experiences https://www.linkedin.com/in/amit-rana-472544390/
 ## Frontend
-React, React Native, HTML5, CSS3, Tailwind, Bootstrap, DaisyUI  
-Redux, React Router, React Hook Form, Context API  
-Vite, GSAP
+![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,redux)
 
 ## Backend
-Node.js, Express, JWT, REST APIs  
-PHP, Apache
+![Backend](https://skillicons.dev/icons?i=nodejs,express,php,python,java,jwt)
 
 ## Databases
-MySQL, MongoDB
+![DB](https://skillicons.dev/icons?i=mysql,mongodb)
 
-## Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,php,python,java,mysql,mongodb,tailwind,bootstrap,figma,git,github,postman,arduino)
+## Tools
+![Tools](https://skillicons.dev/icons?i=git,github,postman,figma,npm,arduino)
